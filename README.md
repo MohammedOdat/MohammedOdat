@@ -31,8 +31,34 @@ Web Development is a Vast field It can be developed significantly in the future,
 </a>
 
 ## Database Skills
-<a href="https://mongodb.com" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongoodb-original-wordmark.svg" alt="Mongo" height="70" width="70" />
+<!-- MongoDB -->
+<a href="https://www.mongodb.com/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="70" width="70" />
+</a>
+
+<!-- PostgreSQL -->
+<a href="https://www.postgresql.org/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="70" width="70" />
+</a>
+
+<!-- Redux -->
+<a href="https://redux.js.org/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="70" width="70" />
+</a>
+
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="70" width="70" />
+</a>
+
+<!-- React.js -->
+<a href="https://reactjs.org/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" height="70" width="70" />
+</a>
+
+<!-- Material-UI -->
+<a href="https://material-ui.com/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" height="70" width="70" />
 </a>
 
 
