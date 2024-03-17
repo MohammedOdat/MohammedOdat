@@ -21,6 +21,21 @@ Web Development is a Vast field It can be developed significantly in the future,
 <a href="https://tailwindcss.com/" target="blank">
 <img align="center" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="TailWind" height="40" width="40" />
 </a>
+<a href="https://redux.js.org/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="70" width="70" />
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="70" width="70" />
+</a>
+
+<a href="https://reactjs.org/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" height="70" width="70" />
+</a>
+
+<a href="https://material-ui.com/" target="_blank">
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" height="70" width="70" />
+</a>
 
 ## Backend Skills
 <a href="https://nodejs.org" target="blank">
@@ -31,35 +46,14 @@ Web Development is a Vast field It can be developed significantly in the future,
 </a>
 
 ## Database Skills
-<!-- MongoDB -->
 <a href="https://www.mongodb.com/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" height="70" width="70" />
 </a>
 
-<!-- PostgreSQL -->
 <a href="https://www.postgresql.org/" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" height="70" width="70" />
 </a>
 
-<!-- Redux -->
-<a href="https://redux.js.org/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" height="70" width="70" />
-</a>
-
-<!-- Bootstrap -->
-<a href="https://getbootstrap.com/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" height="70" width="70" />
-</a>
-
-<!-- React.js -->
-<a href="https://reactjs.org/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" height="70" width="70" />
-</a>
-
-<!-- Material-UI -->
-<a href="https://material-ui.com/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Material-UI" height="70" width="70" />
-</a>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
