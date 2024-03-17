@@ -30,6 +30,10 @@ Web Development is a Vast field It can be developed significantly in the future,
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" height="70" width="70" />
 </a>
 
+## Database Skills
+<a href="https://mongodb.com" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongoodb-original-wordmark.svg" alt="Mongo" height="70" width="70" />
+</a>
 
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
